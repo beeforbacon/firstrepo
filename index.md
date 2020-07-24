@@ -9,7 +9,7 @@
         <p align="center"><big>This is where I will track <br/> my various studies and hobbies.</big></p>
         <hr width="50%"/>
         <p align="center" class="quote">"End the Fed"</p>
-        <img src="bitcoin.jpg" alt="no image" height="50" width="50" />
+        <img src="bitcoin.jpg" alt="no image" height="100" width="100" />
 	<a href="https://bitcoin.org/en/" target="_blank"> BITCOIN </a>
     </body>
 </html>
