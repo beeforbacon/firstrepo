@@ -4,7 +4,7 @@
         <h1 style="text-align:center">Welcome!</h1>
         <hr width="50%"/>
         <!-- <hr/> is a horizontal line -->
-        <p align="center"><big>This is where I will track <br/> my various studies and hobbies.</big></p>
+        <p align="center"><big>This is the G family will share  <br/>our various photos and adventures!</big></p>
         <hr width="50%"/>
 	    <a href="#pics">Click for pics</a>
         <p align="center" class="quote">"End the Fed"</p>
