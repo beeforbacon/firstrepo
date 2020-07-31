@@ -1,7 +1,5 @@
 <html>
-    <head>
-        <title>Nate Learns Stuff</title>
-    </head>
+    <main>
     <body>
         <h1 style="text-align:center">Welcome!</h1>
         <hr width="50%"/>
@@ -14,4 +12,5 @@
 	<a href="https://bitcoin.org/en/" target="_blank"> BITCOIN </a>
 	<h2 id="pics">Pics below</h2>
     </body>
+	</main>
 </html>
