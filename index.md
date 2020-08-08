@@ -1,12 +1,7 @@
 <html>
     <main>
-	    <style>
-body {
-	background-color: black;
-}
-</style>
     <body>
-        <h1 align="center">Welcome!</h1>
+        <h1 style="color: red;" align="center">Welcome!</h1>
         <hr width="100%"/>
         <!-- <hr/> is a horizontal line -->
         <p align="center"><big>This is the G family will share  <br/>our various photos and adventures!</big></p>
