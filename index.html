@@ -1,5 +1,10 @@
 <html>
     <main>
+	    <style>
+body {
+	background-color: black;
+}
+</style>
     <body>
         <h1 align="center">Welcome!</h1>
         <hr width="100%"/>
